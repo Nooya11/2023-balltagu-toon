@@ -1,0 +1,14 @@
+{
+  "name": "2023 Balltagu Comics #35",
+  "description": "This is a cartoon drawn by Balltagu in 2022.",
+  "image": "https://tangerine-frangollo-819e56.netlify.app/35.png",
+  "dna": "b9ac4ce525362b60d007330b77242cee2a9e54db",
+  "edition": 35,
+  "date": 1673531044360,
+  "artist": "Balltagu",
+  "attributes": [
+    {
+      "trait_type": "2022 comics"
+    }
+  ]
+}
