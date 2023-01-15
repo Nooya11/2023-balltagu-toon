@@ -1,6 +1,6 @@
 {
   "name": "w",
-  "description": "This is a cartoon drawn by Balltagu in 2022.",
+  "description": "www",
   "image": "https://tangerine-frangollo-819e56.netlify.app/w.png",
   "dna": "7fde4efd11bf81c22fb8ccef008f4a5cc21c3d84",
   "edition": 0,
@@ -8,7 +8,7 @@
   "artist": "Balltagu",
   "attributes": [
     {
-      "trait_type": "2022 comics"
+      "trait_type": "w"
     }
   ]
 }
